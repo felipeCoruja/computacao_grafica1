@@ -1,3 +1,3 @@
-# TraBALHO DE COMPUTAÇÃO GRÁFICA
+# TRABALHO DE COMPUTAÇÃO GRÁFICA
 
 contem um trabalho feito em node.js e html
